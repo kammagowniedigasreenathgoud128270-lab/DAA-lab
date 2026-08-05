@@ -1,0 +1,8 @@
+practical:3
+Conclusion:
+Heap Sort is an efficient comparison based sorting algorithm that uses a Max Heap to sort elements in ascending order
+It first builds a max heap from the input data and then repeatedly swaps the root largest element
+
+Summary
+Heap Sort is based on the Max Heap data structure.
+The program accepts user input sorts the elements measures execution time and displays the sorted output along with the algorithm's complexity.
